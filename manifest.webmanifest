@@ -1,0 +1,20 @@
+{
+  "name": "INS-01: Bloodstream Battlegrounds",
+  "short_name": "INS-01",
+  "description": "A sci-fi insulin warrior FPS inside the human bloodstream",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "landscape",
+  "background_color": "#070713",
+  "theme_color": "#090c1c",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
